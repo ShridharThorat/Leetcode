@@ -1,0 +1,6 @@
+// Add Solution as the default project
+{
+    "dotnet.defaultSolution": "Leetcode.sln",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+}

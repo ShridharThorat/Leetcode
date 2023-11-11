@@ -1,0 +1,15 @@
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/bin/Debug/net7.0/Solution
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/bin/Debug/net7.0/Solution.deps.json
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/bin/Debug/net7.0/Solution.runtimeconfig.json
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/bin/Debug/net7.0/Solution.dll
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/bin/Debug/net7.0/Solution.pdb
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/obj/Debug/net7.0/Solution.csproj.AssemblyReference.cache
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/obj/Debug/net7.0/Solution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/obj/Debug/net7.0/Solution.AssemblyInfoInputs.cache
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/obj/Debug/net7.0/Solution.AssemblyInfo.cs
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/obj/Debug/net7.0/Solution.csproj.CoreCompileInputs.cache
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/obj/Debug/net7.0/Solution.dll
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/obj/Debug/net7.0/refint/Solution.dll
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/obj/Debug/net7.0/Solution.pdb
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/obj/Debug/net7.0/Solution.genruntimeconfig.cache
+/Users/Shridhar/Documents/Git-reps/Leetcode/X - Name/Solution/obj/Debug/net7.0/ref/Solution.dll
