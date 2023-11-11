@@ -1,0 +1,89 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Python environments
+venv/
+env/
+*.env/
+
+# VS Code
+.vscode/
+.settings/
+
+# C# projects
+bin/
+obj/
+*.user
+*.suo
+*.app
+*.exe
+*.dll
+*.ncb
+*.pdb
+*.aps
+*.res
+*.vspscc
+*.vssscc
+*.pidb
+*.log
+*.bin
+*.userprefs
+*_i.c
+*_p.c
+*.ilk
+*.cache
+*.suo
+*.user
+*.webinfo
+*.sdf
+ipch/
+
+# Xcode
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcworkspace
+!default.xcworkspace
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+.idea/
+*.hmap
+*.xcuserstate
+*.xcscmblueprint
+*.xcplugindata
+*.swiftpm
+*.playground
+timeline.xctimeline
+playground.xcworkspace
+xcuserdata/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
