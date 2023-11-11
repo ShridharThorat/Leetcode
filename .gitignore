@@ -10,10 +10,8 @@ venv/
 env/
 *.env/
 
-# VS Code
-*.vscode
-.vscode/
-.settings/
+# vscode
+# None since we need it consistently across all projects
 
 # C# projects
 bin/
