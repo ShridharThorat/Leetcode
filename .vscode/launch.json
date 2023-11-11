@@ -5,13 +5,20 @@
     "version": "0..0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Example",
+            "request": "launch",
+            "mainClass": "Example",
+            "console": "internalConsole"
+        },
+        {
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
             "program": "${workspaceFolder}/Y - Name/Solution2/bin/Debug/net7.0/Solution2.dll",
             "console": "integratedTerminal",
-            "stopAtEntry": false,
-        }        
+            "stopAtEntry": false
+        }
     ],
     
 }
