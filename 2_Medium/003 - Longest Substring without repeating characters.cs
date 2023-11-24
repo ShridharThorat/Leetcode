@@ -2,7 +2,7 @@
 
 public class _003_
 {
-    public int LengthOfLongestSubstring(string s)
+    public static int LengthOfLongestSubstring(string s)
     {
         Queue<char> currentSubString = new Queue<char>();
         int i = 0;
