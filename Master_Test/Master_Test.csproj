@@ -17,8 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\X - Name\Solution\Solution.csproj" />
-    <ProjectReference Include="..\Y - Name\Solution2\Solution2.csproj" />
     <ProjectReference Include="..\0_Easy\0_Easy.csproj" />
     <ProjectReference Include="..\2_Medium\1_Medium.csproj" />
     <ProjectReference Include="..\3_Hard\2_Hard.csproj" />
