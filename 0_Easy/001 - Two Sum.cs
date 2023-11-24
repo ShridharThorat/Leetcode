@@ -1,6 +1,6 @@
 ﻿namespace Easy;
 
-public class _001___Two_Sum
+public class _001_
 {
     public static int[] TwoSum(int[] nums, int target)
     {

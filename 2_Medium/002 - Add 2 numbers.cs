@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Xml.XPath;
 
-namespace Easy;
+namespace Medium;
 
 
 //Definition for singly-linked list.
@@ -16,9 +16,9 @@ public class ListNode
     }
 }
 
-public class _002___Add_2_numbers
+public class _002_
 {
-    public ListNode? AddTwoNumbers(ListNode? l1, ListNode? l2)
+    public static ListNode? AddTwoNumbers(ListNode? l1, ListNode? l2)
     {
         ListNode? result = new ListNode();
         ListNode? current = result;
