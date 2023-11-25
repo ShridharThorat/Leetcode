@@ -36,18 +36,18 @@ public class _0151_
         return string.Join(" ", s.Split(' ', StringSplitOptions.RemoveEmptyEntries).Reverse());
     }
 
-    public static void Main()
-    {
-        string s = "the sky is blue    ";
-        string output = _0151_.ReverseWords(s);
-        Console.WriteLine(output);
+    // public static void Main()
+    // {
+    //     string s = "the sky is blue    ";
+    //     string output = _0151_.ReverseWords(s);
+    //     Console.WriteLine(output);
 
-        s = "  hello       world  ";
-        output = _0151_.ReverseWords(s);
-        Console.WriteLine(output);
+    //     s = "  hello       world  ";
+    //     output = _0151_.ReverseWords(s);
+    //     Console.WriteLine(output);
 
-        s = "EPY2giL";
-        output = _0151_.ReverseWords(s);
-        Console.WriteLine(output);
-    }
+    //     s = "EPY2giL";
+    //     output = _0151_.ReverseWords(s);
+    //     Console.WriteLine(output);
+    // }
 }
