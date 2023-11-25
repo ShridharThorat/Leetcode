@@ -15,7 +15,7 @@
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
-            "program": "${workspaceFolder}/0_Easy/bin/Debug/net7.0/0_Easy.dll",
+            "program": "${workspaceFolder}/1_Medium/bin/Debug/net7.0/1_Medium.dll",
             "console": "integratedTerminal",
             "stopAtEntry": false
         }
