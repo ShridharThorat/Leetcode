@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Master_Test", "Master_Test\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_Easy", "0_Easy\0_Easy.csproj", "{3D9E8E0F-6FA7-4742-8B3A-76DA66A00E45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Medium", "2_Medium\1_Medium.csproj", "{76969BA0-5CE9-4078-8556-7EDF98BF4129}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Medium", "1_Medium\1_Medium.csproj", "{76969BA0-5CE9-4078-8556-7EDF98BF4129}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Hard", "3_Hard\2_Hard.csproj", "{A4F79E26-E155-4FB9-9ADA-485125543D96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Hard", "2_Hard\2_Hard.csproj", "{A4F79E26-E155-4FB9-9ADA-485125543D96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
