@@ -15,7 +15,7 @@ public class _151_
     {
         string s = "the sky is blue";
         string output = _151_.ReverseWords(s);
-
+        Console.WriteLine(output);
 
         s = "  hello world  ";
 
