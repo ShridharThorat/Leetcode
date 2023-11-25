@@ -1,6 +1,6 @@
-﻿namespace _0_Easy;
+﻿namespace Easy;
 
-public class _009_
+public class _0009_
 {
     public static bool IsPalindrome(int x)
     {

@@ -1,6 +1,6 @@
-﻿namespace _3_Hard;
+﻿namespace Hard;
 
-public class _004_
+public class _0004_
 {
     public static double FindMedianSortedArrays(int[] nums1, int[] nums2)
     {
