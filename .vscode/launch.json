@@ -1,24 +1,31 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0..0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Example",
-            "request": "launch",
-            "mainClass": "Example",
-            "console": "internalConsole"
-        },
-        {
-            "name": ".NET Core Launch (console)",
-            "type": "coreclr",
-            "request": "launch",
-            "program": "${workspaceFolder}/1_Medium/bin/Debug/net7.0/1_Medium.dll",
-            "console": "integratedTerminal",
-            "stopAtEntry": false
-        }
-    ],
-    
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0..0",
+  "configurations": [
+    {
+      "name": "Python: Current File",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "type": "java",
+      "name": "Example",
+      "request": "launch",
+      "mainClass": "Example",
+      "console": "internalConsole"
+    },
+    {
+      "name": ".NET Core Launch (console)",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/1_Medium/bin/Debug/net7.0/1_Medium.dll",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    }
+  ]
 }
