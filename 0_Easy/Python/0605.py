@@ -1,3 +1,6 @@
+# 0605 - Can place flowers
+
+
 #   1 2 3 4 5 6 7 8 9
 # 1 0 0 0 0 0 0 0 0 0 1
 #   x   x   x   x   x  ->  zeroes_between//2

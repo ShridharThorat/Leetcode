@@ -1,8 +1,11 @@
+# 0876 - Middle of LinkedList
 # Definition for singly-linked list.
 class ListNode(object):
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
+
+
 class Solution(object):
     def middleNode(self, head):
         """
@@ -17,4 +20,3 @@ class Solution(object):
                 fast_node = fast_node.next
                 slow_node = slow_node.next
         return slow_node
-        
